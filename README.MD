@@ -5,7 +5,7 @@ Grid Lc Store
 Grid Lc Store é uma loja de aplicativos e jogos 
 
 <p align="center">
-  <img alt="Grid Loja de aplicativos screenshot" src=".imagem/principal.PNG" width="100%">
+  <img alt="Grid Loja de aplicativos screenshot" src=".imagem/principal.png" width="100%">
 </p>
 
 
